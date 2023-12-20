@@ -1,5 +1,5 @@
 # Semonsays Game 
 using Javascript html and Css
-#Author
+# Author
 Hamza Yaqub
 
